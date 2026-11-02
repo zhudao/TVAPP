@@ -11,13 +11,13 @@
 | APP名称                 | 版本        | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | TVBox                   | 20260914 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
-| 影视仓                  | v6.2.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓-TV-32位-6.2.8.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享。[其他版本下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓) |
+| 影视仓                  | v6.2.9 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓-TV6.2.9-32位.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享。[其他版本下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓) |
 | 影视仓V3                | v3.0.36     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢    | V3版本兼容安卓4.4以下，家里电视或盒子是比较老的版本的系统可以安装 |
 | 月光宝盒Box             | 20251017    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Box1017.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
 | 月光宝盒Max             | 20260119 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Max0119.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
 | 月光宝盒PLUS            | 20250601    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒PLUS0601.apk) | 🟢    | PLUS版本功能较全，支持点播+直播，内置宝盒没宝数据源          |
 | 宝盒TV                  | 20260926 | [下载](/影视/宝盒TV/README.md) | 🟢    | 基于OK影视二开的内置源影视TV                                 |
-| FongMi影视              | v5.8.4 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
+| FongMi影视              | v5.8.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
 | OK影视                  | v5.1.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/OK影视-电视版-5.1.6.apk) | 🟢    | 标准版 [安卓5专版下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/安卓5专版) |
 | OK影视Pro               | v5.2.1 | [下载](/影视/OK影视/README.md) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
 | 欧歌影视                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧617.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
@@ -47,7 +47,7 @@
 | 隆庭KTV | v3.15.53 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/隆庭KTV3.15.53.2312271744.apk) | 🟢 | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！ |
 | 时光KTV | v4.15.63 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/时光KTV4.15.63.2401解锁终身会员.apk) | 🟢 | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！ |
 | 金调KTV | v20260520 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/金调KTV_20260520-去引流.apk) | 🟢 | 同上都是一个类型的软件，去除引流版 |
-| 麦动KTV | v2.1.5 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/麦动-2.1.5.apk) | 🟢 | 开源版的K歌软件，布局和上方类似，不用担心收费弹窗。 |
+| 麦动KTV | v2.1.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/麦动-2.1.7.apk) | 🟢 | 开源版的K歌软件，布局和上方类似，不用担心收费弹窗。 |
 | 观屿TV（VoyaTV） | v0.5.3 | [下载](/电视直播/观屿TV/README.md) | 🟢 | 安卓6.0及以上，电视/盒子/手机自适应 IPTV 播放器，支持 M3U/M3U8/TXT、EPG 节目单和频道收藏；需自备直播源，提供标准版与 NoLauncher 版。 |
 | 我的电视                | v1.3.9.8    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
 | OurTV(我们的电视)       | v3.9.5      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/ourTV_3.9.5.apk) | 🔴    | **开发者收到制裁，已停止转播电视信号**                       |
@@ -65,7 +65,7 @@
 | 宽带直播                | v1.0.18     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/宽带直播_1.0.18.apk) | 🟢    | 大屏直播，简约稳定                                           |
 | 你的电视                | v2.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/yourtv_v2.4.1.apk) | 🟢    | 包含网页源+IPTV源可切换。注：最新版本需要在远程配置中，找到“仅用于测试直播源”这一行右侧的新增按钮，点击新增，稍等10-30秒，等待大屏提示完成就可以了 |
 | 云影空蒙 | v3.8.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/云影空蒙) | 🟢 | 一款简洁的电视直播TV空壳版软件。 |
-| DongYuTvWeb | v2.1.5 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
+| DongYuTvWeb | v2.1.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
 | VsTV | v2.5.20 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
 | IKTV                    | v80.3.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/IKTV-80.3.0-电视免费k歌.apk) | 🟢    | 最新修复版可用了，切勿更新！如果弹出激活不去管他过几天就又可以用了。 |
 | 小鸡模拟器TV版          | v1.1.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/小鸡模拟器TV版v1.1.8永久去升级.apk) | 🔴    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。**目前无法下载新游戏** |
@@ -115,7 +115,7 @@
 | 电视屏幕大师 | v2.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/电视屏幕大师_2.3.0.apk) | 🟢 | 一款用于电视全面检测屏幕的软件，拥有清晰度测试、灰度测试、色彩测试、坏点测试等功能。 |
 | 欢视助手 | v1.0.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/欢视助手_1.0.0.apk) | 🟢 | 和野草助手一样是一款可以方便用户快捷的在电视端安装应用的应用工具，可以访问：[https://zhushou.huan.tv](https://zhushou.huan.tv) 上传应用，也可以在微信小程序**欢视助手**上传分享。 |
 | PeekPro | v1.5.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PeekPro) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
-| NewBox | v2.1.2 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
+| NewBox | v2.1.5 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
 | 影视魔改 | v6.4.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视魔改) | 🟢 | 基于FM魔改，支持手机、电视，支持实时语音字幕翻译 |
 | ...updating             |             |                                                              |      |                                                              |
 
